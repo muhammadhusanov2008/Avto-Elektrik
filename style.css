@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    overflow: hidden;
+}
+.home{
+    overflow: hidden;
+}
+.katelog{
+    overflow: hidden;
+}
+.ili{
+    overflow: hidden;
+}
+.imglar{
+    overflow: hidden;
+}
+.button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: #F56E1E;
+    color: white;
+}
+.menu{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.brend{
+    color: #F56E1E;
+    font-weight: bold;
+}
+.xcv{
+    color: #F56E1E;
+}
+.ser{
+    display: flex;
+    /* justify-content: space-around; */
+    /* margin: 10px; */
+    /* margin-left: 10px; */
+}
+.qwe{
+    border-radius: 10px;
+    /* padding: 10px; */
+    /* padding-left: 29%; */
+}
+.sdf{
+    margin-left: 20px;
+}
+.asosiy img{
+    width: 90%;
+}
+.ert img{
+    padding: 10px;
+    border-radius: 50%;
+    border: 2px solid #F56E1E;
+}
+.ert{
+    padding: 10px;
+    margin-top: 10px;
+    gap: initial;
+    border: none;
+    border-radius: 10px;
+    background: #F1F1F1;
+}
+.ert:hover{
+    border: 2px solid #F56E1E;
+    color: #F56E1E;
+    cursor: pointer;
+}
+.mnb{
+    display: flex;
+    justify-content: space-between;
+}
+.awe{
+    color: #F56E1E;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.xit{
+    overflow: hidden;
+}
+.gta{
+    margin-top: 10px;
+    padding: 20px;
+}
+.button{
+    background: #F56E1E;
+    color: white;
+}
+.gta p{
+    padding-right: 70px;
+}
+.gta:hover{
+    cursor: pointer;
+    color: #F56E1E;
+}
+.gta h5{
+    font-weight: bold;
+    font-size: 40px;
+}
+.cfd img{
+    border: 3px solid #F56E1E;
+    padding: 20px;
+    border-radius: 50%;
+}
+.cfd h1{
+    color: #F56E1E;
+}
+.cfd{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #B6B8C8;
+    display: flex;
+}
+.cfd p{
+    color: #B6B8C8;
+}
+.dinamich{
+    overflow: hidden;
+}
+.zapchas{
+    color: #B6B8C8;
+    border: 3px solid #B6B8C8;
+    padding: 20px;
+    border-radius: 20px;
+}
+.gsd{
+    padding: 10px;
+}
+.tanlash{
+    display: flex;
+    justify-content: space-around;
+}
+.tanlash input{
+    border-radius: 15px;
+    padding: 10px;
+}
+.ete{
+    border-radius: 15px;
+    background: #F56E1E;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+}
+.list{
+    /* padding: 50px; */
+    border-radius: 15px;
+    background: #FDE9DE;
+}
+.optovay{
+    overflow: hidden;
+}
+.rassilka{
+    overflow: hidden;
+}
+.foert{
+    overflow: hidden;
+}
+.das{
+    overflow: hidden;
+}
